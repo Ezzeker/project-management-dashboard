@@ -162,7 +162,7 @@ if uploaded_file is not None:
         'Resumen', 
         'Estado',
         "Asignado",
-        'Horas'
+        'Horas Utilizadas'
     ]
  
     # Formatear fechas para la tabla
