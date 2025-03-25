@@ -161,7 +161,8 @@ if uploaded_file is not None:
         'Tipo Tarea', 
         'Resumen', 
         'Estado',
-        "Asignado"
+        "Asignado",
+        'Horas'
     ]
  
     # Formatear fechas para la tabla
