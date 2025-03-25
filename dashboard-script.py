@@ -157,12 +157,12 @@ if uploaded_file is not None:
         'Fecha Inicio',  
         'Código',
         'Tipo',
+        'Horas Utilizadas',
         'Empresa',
         'Tipo Tarea', 
         'Resumen', 
         'Estado',
-        "Asignado",
-        'Horas Utilizadas'
+        "Asignado"        
     ]
  
     # Formatear fechas para la tabla
